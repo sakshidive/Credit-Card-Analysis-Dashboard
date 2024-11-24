@@ -10,7 +10,7 @@ This project includes a dynamic and interactive Credit Card Transaction and Cust
 - **Top States by Revenue**: TX, NY, CA, FL, NJ
 
 ## Tools Used 
-- CSV : Initial source format for datset
+- CSV : Initial source format for dataset
 - MySQL : For data integration and transformation
 - Power BI : For data visualization and designing dynamic dashboard 
 - Power Query : For data processing and transformation
@@ -30,7 +30,7 @@ This project includes a dynamic and interactive Credit Card Transaction and Cust
 ![Screenshot 2024-11-23 210032](https://github.com/user-attachments/assets/7b3a61e2-0665-4f03-a24d-4749964fccdb)
 
 ## Skills Learned 
-- Data Integration from vaious sources such as CSV file/Excel, MySQL database etc.
+- Data Integration from various sources such as CSV file/Excel, MySQL database etc.
 - Data Visualization and dashboard designing
 - Calculated columns and Measures using DAX queries
 - Data Analysis 
@@ -49,6 +49,6 @@ The dataset comprises CSV files containing credit card transaction and customer 
   - Customers aged 40-50 and with high salaries are the most valuable.
   - Swipe transactions contribute the most revenue ($36M), followed by chip-based transactions.  
   - TX, NY, and CA are the leading states in revenue generation.
-  - Overall Deliquent Rate is 6.06%.
+  - Overall Delinquent Rate is 6.06%.
   - Overall activation rate is 57.5%.
     
