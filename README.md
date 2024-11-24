@@ -50,5 +50,5 @@ The dataset comprises CSV files containing credit card transaction and customer 
   - Swipe transactions contribute the most revenue ($36M), followed by chip-based transactions.  
   - TX, NY, and CA are the leading states in revenue generation.
   - Overall Delinquent Rate is 6.06%.
-  - Overall activation rate is 57.5%.
+  - Overall Activation rate is 57.5%.
     
