@@ -1,6 +1,6 @@
 # Credit Card Analysis Report 
 ## Project Overview 
-This project includes a dynamic and interactive Credit Card Transaction and Customer dashboard designed to analyze weekly credit card operations data, providing stakeholders with realtime actionable insights into key performace metrics and trends to enhance decision-making and optimize performance.
+This project includes a dynamic and interactive Credit Card Transaction and Customer dashboard designed to analyze weekly credit card operations data, providing stakeholders with real-time actionable insights into key performance metrics and trends to enhance decision-making and optimize performance.
 
 ## Tools Used 
 - CSV : Initial source format for dataset
