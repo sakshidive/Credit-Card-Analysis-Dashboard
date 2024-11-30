@@ -29,7 +29,7 @@ The dataset comprises CSV files containing credit card transaction and customer 
 4. **Advanced DAX Queries**: Created Calculated columns and Measures
 5. **Data Visualization**: Designed a dynamic dashboard to analyze key metrics and trends
 
-## Dahboard Preview
+## Dashboard Preview
 
 ![Screenshot 2024-11-23 210001](https://github.com/user-attachments/assets/378fe5af-3e43-4629-9b11-eacfeb75d5e7)
 
