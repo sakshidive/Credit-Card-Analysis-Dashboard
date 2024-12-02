@@ -1,6 +1,6 @@
 # Credit Card Analysis Report 
 ## Project Overview 
-This project includes a dynamic and interactive Credit Card Transaction and Customer dashboard designed to analyze weekly credit card operations data, providing stakeholders with real-time actionable insights into key performance metrics and trends to enhance decision-making and optimize performance.
+This project includes a dynamic and interactive **Credit Card Transaction and Customer** dashboard designed to analyze weekly credit card operations data, providing stakeholders with real-time actionable insights into key performance metrics and trends to enhance decision-making and optimize performance.
 
 ## Tools Used 
 - CSV : Initial source format for dataset
@@ -37,13 +37,13 @@ The dataset comprises CSV files containing credit card transaction and customer 
 
 
 ## Insights 
-  - Revenue increased by 28.8 % (week 53) compared to last week.
-  - Blue card contributing 90% to overall revenue.
+  - Revenue increased by **28.8 %** (week 53) compared to last week.
+  - **Blue card** contributing **90%** to overall revenue.
   - Customers aged 40-50 and with high salaries are the most valuable.
-  - Swipe transactions contribute the most revenue ($36M), followed by chip-based transactions.  
-  - TX, NY, and CA are the leading states in revenue generation.
-  - Overall Delinquent Rate is 6.06%.
-  - Overall Activation rate is 57.5%.
+  - **Swipe** transactions contribute the most revenue **($36M)**, followed by **chip-based** transactions.  
+  - **TX, NY, and CA** are the leading states in revenue generation.
+  - Overall **Delinquent Rate** is **6.06%**.
+  - Overall **Activation Rate** is **57.5%**.
 
 ## Skills Learned 
 - Data Integration from various sources such as CSV file/Excel, MySQL database etc.
