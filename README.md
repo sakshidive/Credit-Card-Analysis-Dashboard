@@ -35,6 +35,7 @@ The dataset comprises CSV files containing credit card transaction and customer 
 
 ![Screenshot 2024-11-23 210032](https://github.com/user-attachments/assets/7b3a61e2-0665-4f03-a24d-4749964fccdb)
 
+## Live Dashboard Link - [Credit Card Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTJkZmY4OTUtNThjZi00YjgzLTk1NWMtMTA0ODI0YWNhYjNhIiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9&pageName=11b8942e1670cae190e4)
 
 ## Insights 
   - Revenue increased by **28.8 %** (week 53) compared to last week.
